@@ -14,7 +14,7 @@ omitting:
 - short works (<400-500 kB)
 
 Raw corpus: 
-136MB, 2.6 million lines, 22,086,575 words, 13,2794,060 characters, 6.01 characters per word.
+136MB, 2.6 million lines, 22,086,575 words, 132,794,060 characters, 6.01 characters per word.
 
 Corpus stripped of most characters except letters, "'" and "-", plus nonexcessive spaces and newlines:
 129MB, 2.0 million lines, 21,858,058 words, 125,679,247 characters, 5.75 characters per word.
